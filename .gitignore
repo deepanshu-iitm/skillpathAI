@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+venv/
+
+# Byte-compiled / OS
+*.swp
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
