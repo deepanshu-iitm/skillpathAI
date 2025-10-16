@@ -4,7 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 .venv/
-.env
 venv/
 
 # Byte-compiled / OS
@@ -15,4 +14,5 @@ venv/
 .streamlit/
 
 # VSCode
-.vscode/
+config.bat
+node_modules
